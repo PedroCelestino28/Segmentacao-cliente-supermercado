@@ -7,7 +7,7 @@ Um supermercado, através de cartões de fidelidade, possui alguns dados básico
 
 ![segmentacao_pca_3d](imagens/pca_plot_3d.png)
 
-[Link original para o dataset](https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in-python)
+[Link original para o dataset](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python)
 
 Projeto de clusterização de uma base de dados de clientes de supermercado utilizando sklearn, pandas e matplotlib 
 
