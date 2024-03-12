@@ -66,9 +66,9 @@ O dataset utilizado é o contido no arquivo [`Mall_Customers.csv`](dados/Mall_Cu
 
 Com o pipeline realizando pré-processamento, PCA e K-Means, a base foi segmentada em 5 clusters, como mostrado nas figuras abaixo:
 
-![pairplot](imagens/pairplot.png)
+![pairplot](Imagens/pairplot.png)
 
-![boxplot](imagens/boxplot.png)
+![boxplot](Imagens/boxplot.png)
 
 - Cluster 0 - pontuação de gastos moderada, renda moderada, idade alta
 - Cluster 1 - pontuação de gastos moderada, renda moderada, idade jovem
