@@ -1,5 +1,5 @@
-[![author][(https://img.shields.io/badge/Author-Pedro&nbsp;Celestino-red.svg)][(https://www.linkedin.com/in/pedro-celestino-1b0714196/)]
-[![](https://img.shields.io/badge/Python-3.11+-blue.svg)][(https://www.python.org/)]
+[![author].(https://img.shields.io/badge/Author-Pedro&nbsp;Celestino-red.svg)].(https://www.linkedin.com/in/pedro-celestino-1b0714196/)
+[![].(https://img.shields.io/badge/Python-3.11+-blue.svg)].(https://www.python.org/)
 
 # Segmentação de clientes de um supermercado
 
